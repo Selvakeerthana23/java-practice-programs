@@ -10,6 +10,7 @@ This repository contains basic Java programs created while learning Java program
 - Sum of Numbers
 - Greater Number
 - Voting Eligibility Check
+- Fibonacci Series
 
 ## How to Run
 
